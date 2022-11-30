@@ -47,25 +47,25 @@ echo "Nama pasien: " . $favorites[0]["namapasien"];
 echo "\n";
 echo "\n";
 
-echo "Norec: " . $favorites[0]["norec"], "\n"; 
+echo "Norec: " . $favorites[1]["norec"], "\n"; 
 echo "Tanggal Registrasi: " . $favorites[1]["tglregistrasi"], "\n";
 echo "Nama pasien: " . $favorites[1]["namapasien"];
 echo "\n";
 echo "\n";
 
-echo "Norec: " . $favorites[0]["norec"], "\n"; 
+echo "Norec: " . $favorites[2]["norec"], "\n"; 
 echo "Tanggal Registrasi: " . $favorites[2]["tglregistrasi"], "\n";
 echo "Nama pasien: " . $favorites[2]["namapasien"];
 echo "\n";
 echo "\n";
 
-echo "Norec: " . $favorites[0]["norec"], "\n"; 
+echo "Norec: " . $favorites[3]["norec"], "\n"; 
 echo "Tanggal Registrasi: " . $favorites[3]["tglregistrasi"], "\n";
 echo "Nama pasien: " . $favorites[3]["namapasien"];
 echo "\n";
 echo "\n";
 
-echo "Norec: " . $favorites[0]["norec"], "\n"; 
+echo "Norec: " . $favorites[4]["norec"], "\n"; 
 echo "Tanggal Registrasi: " . $favorites[4]["tglregistrasi"], "\n";
 echo "Nama pasien: " . $favorites[4]["namapasien"];
 echo "\n";
